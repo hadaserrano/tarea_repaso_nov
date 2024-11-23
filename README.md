@@ -9,3 +9,7 @@ Did a commit,
 git status,
 git add -A to add the rest of the files,
 Another git status and another commit.
+Made a new branch using,
+git checkout -b nueva_rama,
+It auttomaticly switch to the new branch,
+did a git status.
