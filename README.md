@@ -14,3 +14,4 @@ git checkout -b nueva_rama
 It automatically switch to the new branch
 Git status (again)
 used code . to modify README on vscode
+I modified README and did another commit
