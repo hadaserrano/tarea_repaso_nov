@@ -17,6 +17,8 @@ It automatically switch to the new branch
 Git status (again)
 used code . to modify README on vscode
 I modified README and did another commit
+I used git merge to merge both branches,
+found conflicts when updating instrucciones with screenshots
 =======
 
 >>>>>>> 6fadfc2e15baa39575234f3ee39117e191dbc822
