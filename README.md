@@ -1,4 +1,5 @@
 # tarea_repaso_nov
+<<<<<<< HEAD
 I used mkdir for foldders
 touch to create the files
 downloaded a photo from google and just drag it over choosen folder
@@ -15,3 +16,6 @@ It automatically switch to the new branch
 Git status (again)
 used code . to modify README on vscode
 I modified README and did another commit
+=======
+
+>>>>>>> 6fadfc2e15baa39575234f3ee39117e191dbc822
